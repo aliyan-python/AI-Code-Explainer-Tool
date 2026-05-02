@@ -62,7 +62,7 @@ while True:
         print(r)
 
     choice = input(
-        "\nType 'exit' to quit or press Enter to continue: ").lower()
+        "\nDo You Want Me To Tell More Code(yes/no): ").lower()
     if choice == "exit":
         print("Thanks For Using")
         break
